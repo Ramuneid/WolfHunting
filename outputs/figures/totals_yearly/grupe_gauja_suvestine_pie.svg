@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="482.116923pt" height="509.04pt" viewBox="0 0 482.116923 509.04" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T12:00:32.305272</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 509.04 
+L 482.116923 509.04 
+L 482.116923 -0 
+L 0 -0 
+z
+" style="fill: #f7f5e7"/>
+  </g>
+  <g id="axes_1">
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_2">
+    <path d="M 291.17254 448.231471 
+C 334.745565 436.117059 372.481603 408.604383 397.342588 370.824773 
+C 422.203573 333.045164 432.541456 287.50305 426.428142 242.692394 
+C 420.314828 197.881739 398.15557 156.773063 364.083246 127.033457 
+C 330.010921 97.293851 286.284201 80.894769 241.058462 80.894769 
+L 241.058462 267.981538 
+z
+" style="fill: #a65d23"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 180.72398 90.890574 
+C 134.649655 106.58799 96.472737 139.662874 74.370764 183.030547 
+C 52.268792 226.398221 47.941195 276.724128 62.314949 323.228402 
+C 76.688703 369.732676 108.658604 408.839585 151.376665 432.172386 
+C 194.094725 455.505188 244.276336 461.269812 291.17254 448.231471 
+L 241.058462 267.981538 
+z
+" style="fill: #4b574b"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 241.058462 80.894769 
+C 230.813962 80.894769 220.586749 81.736222 210.480014 83.410637 
+C 200.373279 85.085052 190.421128 87.586778 180.72398 90.890574 
+L 241.058462 267.981538 
+z
+" style="fill: #e0af70"/>
+   </g>
+   <g id="pie-label-inside">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(340.65902 250.108052)">Taip</text>
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(316.91027 264.208052)">778 (45,7 %)</text>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="340.65902" y="250.108052" transform="rotate(-0 340.65902 250.108052)">Taip</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="316.91027" y="264.208052" transform="rotate(-0 316.91027 264.208052)">778 </text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="341.928395" y="264.208052" transform="rotate(-0 341.928395 264.208052)">(45,7 %)</text>
+   </g>
+   <g id="pie-label-inside">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(125.930791 298.429656)">Ne</text>
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(99.072354 312.529656)">836 (49,1 %)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="125.930791" y="298.429656" transform="rotate(-0 125.930791 298.429656)">Ne</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="99.072354" y="312.529656" transform="rotate(-0 99.072354 312.529656)">836 </text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="124.630479" y="312.529656" transform="rotate(-0 124.630479 312.529656)">(49,1 %)</text>
+   </g>
+   <g id="pie-label-outside">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #4b574b; opacity: 0" transform="translate(152.276544 62.253547)">Nežinoma</text>
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #4b574b; opacity: 0" transform="translate(150.242169 76.353547)">89 (5,2 %)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #4b574b" x="152.276544" y="62.253547" transform="rotate(-0 152.276544 62.253547)">Nežinoma</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #4b574b" x="150.242169" y="76.353547" transform="rotate(-0 150.242169 76.353547)">89 </text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #697369" x="168.343419" y="76.353547" transform="rotate(-0 168.343419 76.353547)">(5,2 %)</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 208.513057 71.538122 
+Q 209.333023 76.487419 210.152988 81.436715 
+" style="fill: none; stroke: #4b574b; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 14px; font-family: 'Slabo 13px', 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #4b574b" x="7.2" y="20.123077" transform="rotate(-0 7.2 20.123077)">Sumedžiotų vilkų priklausymas gaujai</text>
+   </g>
+  </g>
+ </g>
+</svg>

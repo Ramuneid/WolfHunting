@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1141.644176pt" height="830.394pt" viewBox="0 0 1141.644176 830.394" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T11:42:38.720035</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 830.394 
+L 1141.644176 830.394 
+L 1141.644176 0 
+L 0 0 
+z
+" style="fill: #f7f5e7"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.2 823.194 
+L 211.07035 823.194 
+L 211.07035 607.992839 
+L 7.2 607.992839 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #593019"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 7.2 607.992839 
+L 211.07035 607.992839 
+L 211.07035 403.039353 
+L 7.2 403.039353 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #65361a"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 7.2 403.039353 
+L 211.07035 403.039353 
+L 211.07035 216.019296 
+L 7.2 216.019296 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #7a401d"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 7.2 216.019296 
+L 211.07035 216.019296 
+L 211.07035 34.123077 
+L 7.2 34.123077 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #80431e"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 211.07035 823.194 
+L 397.730865 823.194 
+L 397.730865 644.114074 
+L 211.07035 644.114074 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #954f21"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 211.07035 644.114074 
+L 397.730865 644.114074 
+L 397.730865 479.024768 
+L 211.07035 479.024768 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #a45924"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 211.07035 479.024768 
+L 397.730865 479.024768 
+L 397.730865 319.531709 
+L 211.07035 319.531709 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #aa5c25"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 211.07035 319.531709 
+L 397.730865 319.531709 
+L 397.730865 176.827393 
+L 211.07035 176.827393 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #bb6829"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 211.07035 176.827393 
+L 397.730865 176.827393 
+L 397.730865 34.123077 
+L 211.07035 34.123077 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #bb6829"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 397.730865 823.194 
+L 556.264109 823.194 
+L 556.264109 655.170812 
+L 397.730865 655.170812 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #bb6829"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 556.264109 823.194 
+L 708.580363 823.194 
+L 708.580363 655.170812 
+L 556.264109 655.170812 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #c06c2a"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 708.580363 823.194 
+L 854.679628 823.194 
+L 854.679628 655.170812 
+L 708.580363 655.170812 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #c5702b"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 854.679628 823.194 
+L 997.670397 823.194 
+L 997.670397 655.170812 
+L 854.679628 655.170812 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #c7722c"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 997.670397 823.194 
+L 1134.444176 823.194 
+L 1134.444176 655.170812 
+L 997.670397 655.170812 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #cc762d"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 397.730865 655.170812 
+L 533.972368 655.170812 
+L 533.972368 494.158436 
+L 397.730865 494.158436 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #d07a2f"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 397.730865 494.158436 
+L 533.972368 494.158436 
+L 533.972368 333.14606 
+L 397.730865 333.14606 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #d07a2f"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 397.730865 333.14606 
+L 533.972368 333.14606 
+L 533.972368 183.634569 
+L 397.730865 183.634569 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #d88131"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 397.730865 183.634569 
+L 533.972368 183.634569 
+L 533.972368 34.123077 
+L 397.730865 34.123077 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #d88131"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 533.972368 655.170812 
+L 665.43661 655.170812 
+L 665.43661 508.172118 
+L 533.972368 508.172118 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #dc8533"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 665.43661 655.170812 
+L 793.347764 655.170812 
+L 793.347764 508.172118 
+L 665.43661 508.172118 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #df8733"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 793.347764 655.170812 
+L 907.046568 655.170812 
+L 907.046568 508.172118 
+L 793.347764 508.172118 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #e69037"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 907.046568 655.170812 
+L 1020.745372 655.170812 
+L 1020.745372 508.172118 
+L 907.046568 508.172118 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #e69037"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 1020.745372 655.170812 
+L 1134.444176 655.170812 
+L 1134.444176 508.172118 
+L 1020.745372 508.172118 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #e69037"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 533.972368 508.172118 
+L 665.084561 508.172118 
+L 665.084561 384.680351 
+L 533.972368 384.680351 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #e79339"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 533.972368 384.680351 
+L 665.084561 384.680351 
+L 665.084561 265.172189 
+L 533.972368 265.172189 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #e8953a"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 533.972368 265.172189 
+L 665.084561 265.172189 
+L 665.084561 145.664028 
+L 533.972368 145.664028 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #e8953a"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 533.972368 145.664028 
+L 665.084561 145.664028 
+L 665.084561 34.123077 
+L 533.972368 34.123077 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #ea9a3d"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 665.084561 508.172118 
+L 788.120576 508.172118 
+L 788.120576 393.554627 
+L 665.084561 393.554627 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #eb9d3f"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 788.120576 508.172118 
+L 911.156592 508.172118 
+L 911.156592 393.554627 
+L 788.120576 393.554627 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #eb9d3f"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 911.156592 508.172118 
+L 1025.078829 508.172118 
+L 1025.078829 393.554627 
+L 911.156592 393.554627 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #eda242"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 1025.078829 508.172118 
+L 1134.444176 508.172118 
+L 1134.444176 393.554627 
+L 1025.078829 393.554627 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #eea443"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 665.084561 393.554627 
+L 766.803363 393.554627 
+L 766.803363 270.320953 
+L 665.084561 270.320953 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #eea443"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 665.084561 270.320953 
+L 766.803363 270.320953 
+L 766.803363 152.222015 
+L 665.084561 152.222015 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #efa745"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 665.084561 152.222015 
+L 766.803363 152.222015 
+L 766.803363 34.123077 
+L 665.084561 34.123077 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #efa745"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 766.803363 393.554627 
+L 883.053422 393.554627 
+L 883.053422 299.203845 
+L 766.803363 299.203845 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f1ac48"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 766.803363 299.203845 
+L 883.053422 299.203845 
+L 883.053422 209.345958 
+L 766.803363 209.345958 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f2af4a"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 766.803363 209.345958 
+L 883.053422 209.345958 
+L 883.053422 119.48807 
+L 766.803363 119.48807 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f2af4a"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 766.803363 119.48807 
+L 883.053422 119.48807 
+L 883.053422 34.123077 
+L 766.803363 34.123077 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f3b24b"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 883.053422 393.554627 
+L 968.431414 393.554627 
+L 968.431414 283.439759 
+L 883.053422 283.439759 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f4b44d"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 968.431414 393.554627 
+L 1053.809406 393.554627 
+L 1053.809406 283.439759 
+L 968.431414 283.439759 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f4b44d"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 1053.809406 393.554627 
+L 1134.444176 393.554627 
+L 1134.444176 283.439759 
+L 1053.809406 283.439759 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f5b74e"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 883.053422 283.439759 
+L 985.704647 283.439759 
+L 985.704647 196.942135 
+L 883.053422 196.942135 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f5b74e"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 883.053422 196.942135 
+L 985.704647 196.942135 
+L 985.704647 110.44451 
+L 883.053422 110.44451 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f5b74e"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 883.053422 110.44451 
+L 985.704647 110.44451 
+L 985.704647 34.123077 
+L 883.053422 34.123077 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f4ba59"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 985.704647 283.439759 
+L 1068.337718 283.439759 
+L 1068.337718 188.62919 
+L 985.704647 188.62919 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f4ba59"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 1068.337718 283.439759 
+L 1134.444176 283.439759 
+L 1134.444176 188.62919 
+L 1068.337718 188.62919 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f2be6a"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 985.704647 188.62919 
+L 1060.074411 188.62919 
+L 1060.074411 111.376133 
+L 985.704647 111.376133 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f1bf70"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 1060.074411 188.62919 
+L 1134.444176 188.62919 
+L 1134.444176 111.376133 
+L 1060.074411 111.376133 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f1bf70"/>
+   </g>
+   <g id="patch_50">
+    <path d="M 985.704647 111.376133 
+L 1060.074411 111.376133 
+L 1060.074411 34.123077 
+L 985.704647 34.123077 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f1bf70"/>
+   </g>
+   <g id="patch_51">
+    <path d="M 1060.074411 111.376133 
+L 1134.444176 111.376133 
+L 1134.444176 55.192092 
+L 1060.074411 55.192092 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #f0c381"/>
+   </g>
+   <g id="patch_52">
+    <path d="M 1060.074411 55.192092 
+L 1109.654254 55.192092 
+L 1109.654254 34.123077 
+L 1060.074411 34.123077 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #eccba3"/>
+   </g>
+   <g id="patch_53">
+    <path d="M 1109.654254 55.192092 
+L 1134.444176 55.192092 
+L 1134.444176 34.123077 
+L 1109.654254 34.123077 
+z
+" clip-path="url(#p0c40c8685a)" style="fill: #eccda8"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 7.2 823.194 
+L 211.07035 823.194 
+L 211.07035 607.992839 
+L 7.2 607.992839 
+L 7.2 823.194 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 7.2 607.992839 
+L 211.07035 607.992839 
+L 211.07035 403.039353 
+L 7.2 403.039353 
+L 7.2 607.992839 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 7.2 403.039353 
+L 211.07035 403.039353 
+L 211.07035 216.019296 
+L 7.2 216.019296 
+L 7.2 403.039353 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 7.2 216.019296 
+L 211.07035 216.019296 
+L 211.07035 34.123077 
+L 7.2 34.123077 
+L 7.2 216.019296 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 211.07035 823.194 
+L 397.730865 823.194 
+L 397.730865 644.114074 
+L 211.07035 644.114074 
+L 211.07035 823.194 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 211.07035 644.114074 
+L 397.730865 644.114074 
+L 397.730865 479.024768 
+L 211.07035 479.024768 
+L 211.07035 644.114074 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 211.07035 479.024768 
+L 397.730865 479.024768 
+L 397.730865 319.531709 
+L 211.07035 319.531709 
+L 211.07035 479.024768 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 211.07035 319.531709 
+L 397.730865 319.531709 
+L 397.730865 176.827393 
+L 211.07035 176.827393 
+L 211.07035 319.531709 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 211.07035 176.827393 
+L 397.730865 176.827393 
+L 397.730865 34.123077 
+L 211.07035 34.123077 
+L 211.07035 176.827393 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 397.730865 823.194 
+L 556.264109 823.194 
+L 556.264109 655.170812 
+L 397.730865 655.170812 
+L 397.730865 823.194 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 556.264109 823.194 
+L 708.580363 823.194 
+L 708.580363 655.170812 
+L 556.264109 655.170812 
+L 556.264109 823.194 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 708.580363 823.194 
+L 854.679628 823.194 
+L 854.679628 655.170812 
+L 708.580363 655.170812 
+L 708.580363 823.194 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 854.679628 823.194 
+L 997.670397 823.194 
+L 997.670397 655.170812 
+L 854.679628 655.170812 
+L 854.679628 823.194 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 997.670397 823.194 
+L 1134.444176 823.194 
+L 1134.444176 655.170812 
+L 997.670397 655.170812 
+L 997.670397 823.194 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 397.730865 655.170812 
+L 533.972368 655.170812 
+L 533.972368 494.158436 
+L 397.730865 494.158436 
+L 397.730865 655.170812 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 397.730865 494.158436 
+L 533.972368 494.158436 
+L 533.972368 333.14606 
+L 397.730865 333.14606 
+L 397.730865 494.158436 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 397.730865 333.14606 
+L 533.972368 333.14606 
+L 533.972368 183.634569 
+L 397.730865 183.634569 
+L 397.730865 333.14606 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 397.730865 183.634569 
+L 533.972368 183.634569 
+L 533.972368 34.123077 
+L 397.730865 34.123077 
+L 397.730865 183.634569 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 533.972368 655.170812 
+L 665.43661 655.170812 
+L 665.43661 508.172118 
+L 533.972368 508.172118 
+L 533.972368 655.170812 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 665.43661 655.170812 
+L 793.347764 655.170812 
+L 793.347764 508.172118 
+L 665.43661 508.172118 
+L 665.43661 655.170812 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 793.347764 655.170812 
+L 907.046568 655.170812 
+L 907.046568 508.172118 
+L 793.347764 508.172118 
+L 793.347764 655.170812 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 907.046568 655.170812 
+L 1020.745372 655.170812 
+L 1020.745372 508.172118 
+L 907.046568 508.172118 
+L 907.046568 655.170812 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 1020.745372 655.170812 
+L 1134.444176 655.170812 
+L 1134.444176 508.172118 
+L 1020.745372 508.172118 
+L 1020.745372 655.170812 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 533.972368 508.172118 
+L 665.084561 508.172118 
+L 665.084561 384.680351 
+L 533.972368 384.680351 
+L 533.972368 508.172118 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 533.972368 384.680351 
+L 665.084561 384.680351 
+L 665.084561 265.172189 
+L 533.972368 265.172189 
+L 533.972368 384.680351 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 533.972368 265.172189 
+L 665.084561 265.172189 
+L 665.084561 145.664028 
+L 533.972368 145.664028 
+L 533.972368 265.172189 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 533.972368 145.664028 
+L 665.084561 145.664028 
+L 665.084561 34.123077 
+L 533.972368 34.123077 
+L 533.972368 145.664028 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 665.084561 508.172118 
+L 788.120576 508.172118 
+L 788.120576 393.554627 
+L 665.084561 393.554627 
+L 665.084561 508.172118 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 788.120576 508.172118 
+L 911.156592 508.172118 
+L 911.156592 393.554627 
+L 788.120576 393.554627 
+L 788.120576 508.172118 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 911.156592 508.172118 
+L 1025.078829 508.172118 
+L 1025.078829 393.554627 
+L 911.156592 393.554627 
+L 911.156592 508.172118 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_31">
+    <path d="M 1025.078829 508.172118 
+L 1134.444176 508.172118 
+L 1134.444176 393.554627 
+L 1025.078829 393.554627 
+L 1025.078829 508.172118 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 665.084561 393.554627 
+L 766.803363 393.554627 
+L 766.803363 270.320953 
+L 665.084561 270.320953 
+L 665.084561 393.554627 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 665.084561 270.320953 
+L 766.803363 270.320953 
+L 766.803363 152.222015 
+L 665.084561 152.222015 
+L 665.084561 270.320953 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 665.084561 152.222015 
+L 766.803363 152.222015 
+L 766.803363 34.123077 
+L 665.084561 34.123077 
+L 665.084561 152.222015 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 766.803363 393.554627 
+L 883.053422 393.554627 
+L 883.053422 299.203845 
+L 766.803363 299.203845 
+L 766.803363 393.554627 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 766.803363 299.203845 
+L 883.053422 299.203845 
+L 883.053422 209.345958 
+L 766.803363 209.345958 
+L 766.803363 299.203845 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_37">
+    <path d="M 766.803363 209.345958 
+L 883.053422 209.345958 
+L 883.053422 119.48807 
+L 766.803363 119.48807 
+L 766.803363 209.345958 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_38">
+    <path d="M 766.803363 119.48807 
+L 883.053422 119.48807 
+L 883.053422 34.123077 
+L 766.803363 34.123077 
+L 766.803363 119.48807 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_39">
+    <path d="M 883.053422 393.554627 
+L 968.431414 393.554627 
+L 968.431414 283.439759 
+L 883.053422 283.439759 
+L 883.053422 393.554627 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_40">
+    <path d="M 968.431414 393.554627 
+L 1053.809406 393.554627 
+L 1053.809406 283.439759 
+L 968.431414 283.439759 
+L 968.431414 393.554627 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_41">
+    <path d="M 1053.809406 393.554627 
+L 1134.444176 393.554627 
+L 1134.444176 283.439759 
+L 1053.809406 283.439759 
+L 1053.809406 393.554627 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_42">
+    <path d="M 883.053422 283.439759 
+L 985.704647 283.439759 
+L 985.704647 196.942135 
+L 883.053422 196.942135 
+L 883.053422 283.439759 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_43">
+    <path d="M 883.053422 196.942135 
+L 985.704647 196.942135 
+L 985.704647 110.44451 
+L 883.053422 110.44451 
+L 883.053422 196.942135 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_44">
+    <path d="M 883.053422 110.44451 
+L 985.704647 110.44451 
+L 985.704647 34.123077 
+L 883.053422 34.123077 
+L 883.053422 110.44451 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_45">
+    <path d="M 985.704647 283.439759 
+L 1068.337718 283.439759 
+L 1068.337718 188.62919 
+L 985.704647 188.62919 
+L 985.704647 283.439759 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_46">
+    <path d="M 1068.337718 283.439759 
+L 1134.444176 283.439759 
+L 1134.444176 188.62919 
+L 1068.337718 188.62919 
+L 1068.337718 283.439759 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_47">
+    <path d="M 985.704647 188.62919 
+L 1060.074411 188.62919 
+L 1060.074411 111.376133 
+L 985.704647 111.376133 
+L 985.704647 188.62919 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_48">
+    <path d="M 1060.074411 188.62919 
+L 1134.444176 188.62919 
+L 1134.444176 111.376133 
+L 1060.074411 111.376133 
+L 1060.074411 188.62919 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_49">
+    <path d="M 985.704647 111.376133 
+L 1060.074411 111.376133 
+L 1060.074411 34.123077 
+L 985.704647 34.123077 
+L 985.704647 111.376133 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_50">
+    <path d="M 1060.074411 111.376133 
+L 1134.444176 111.376133 
+L 1134.444176 55.192092 
+L 1060.074411 55.192092 
+L 1060.074411 111.376133 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_51">
+    <path d="M 1060.074411 55.192092 
+L 1109.654254 55.192092 
+L 1109.654254 34.123077 
+L 1060.074411 34.123077 
+L 1060.074411 55.192092 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_52">
+    <path d="M 1109.654254 55.192092 
+L 1134.444176 55.192092 
+L 1134.444176 34.123077 
+L 1109.654254 34.123077 
+L 1109.654254 55.192092 
+" clip-path="url(#p0c40c8685a)" style="fill: none; stroke: #f7f5e7; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(87.602675 706.65592)">Rokiškio</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(95.367128 719.58092)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(102.126113 732.50592)">84</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(88.364081 496.578596)">Varėnos</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(95.367128 509.503596)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(102.243847 522.428596)">80</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(80.747441 300.591824)">Kaišiadorių</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(95.367128 313.516824)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(102.475019 326.441824)">73</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(85.857284 116.133687)">Anykščių</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(95.367128 129.058687)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(103.486503 141.983687)">71</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(282.242483 724.716537)">Kėdainių</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(290.632561 737.641537)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(297.529045 750.566537)">64</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(281.166545 552.631921)">Ignalinos</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(290.632561 565.556921)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(297.443108 578.481921)">59</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(286.34428 390.340738)">Lazdijų</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(290.632561 403.265738)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff" transform="translate(297.575451 416.190738)">57</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(278.31428 239.242051)">Ukmergės</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(290.632561 252.167051)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(298.639358 265.092051)">51</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(277.222014 96.537735)">Vilkaviškio</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(290.632561 109.462735)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(298.639358 122.387735)">51</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(456.711081 730.244906)">Vilniaus</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(463.229441 743.169906)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(471.236237 756.094906)">51</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(618.072393 730.244906)">Šakių</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(618.65419 743.169906)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(625.530908 756.094906)">49</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(764.121089 730.244906)">Šiaulių</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(767.861949 743.169906)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(774.871011 756.094906)">47</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(900.563918 730.244906)">Panevėžio</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(912.406965 743.169906)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(919.294856 756.094906)">46</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1048.444396 730.244906)">Zarasų</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1052.289239 743.169906)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1059.144474 756.094906)">44</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(450.933726 565.727124)">Telšių</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(452.08357 578.652124)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(459.117554 591.577124)">42</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(437.933101 404.714748)">Švenčionių</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(452.08357 417.639748)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(459.117554 430.564748)">42</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(446.864585 249.452814)">Kelmės</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(452.08357 262.377814)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(458.987789 275.302814)">39</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(442.337398 99.941323)">Tauragės</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(452.08357 112.866323)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(458.987789 125.791323)">39</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(581.551051 572.733965)">Utenos</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(585.936442 585.658965)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(593.038317 598.583965)">37</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(707.598437 572.733965)">Kupiškio</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(715.62414 585.658965)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(722.539531 598.583965)">36</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(822.693729 572.733965)">Radviliškio</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(836.429119 585.658965)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(843.45451 598.583965)">32</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(946.13097 572.733965)">Molėtų</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(950.127923 585.658965)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(957.153314 598.583965)">32</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1054.931336 572.733965)">Mažeikių</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1063.826727 585.658965)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1070.852118 598.583965)">32</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(586.43073 437.488735)">Biržų</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(585.760418 450.413735)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(593.824793 463.338735)">31</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(577.50698 315.98877)">Jurbarko</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(585.760418 328.91377)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(592.733386 341.83877)">30</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(579.689793 196.480609)">Širvintų</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(585.760418 209.405609)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(592.733386 222.330609)">30</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(574.763855 80.956052)">Kretingos</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(585.760418 93.881052)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(592.689558 106.806052)">28</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(705.911397 441.925872)">Plungės</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(712.834522 454.850872)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(720.022334 467.775872)">27</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(828.541787 441.925872)">Pasvalio</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(835.870537 454.850872)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(843.05835 467.775872)">27</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(948.56521 441.925872)">Alytaus</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(954.349663 454.850872)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(961.317476 467.775872)">25</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1048.255096 441.925872)">Kazlų Rūdos</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1070.282596 454.850872)">sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1073.02744 467.775872)">24</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(698.77279 323.00029)">Šilalės</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(702.175915 335.92529)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(709.209899 348.85029)">24</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(689.359196 202.333984)">Šalčininkų</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(702.175915 215.258984)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(709.201306 228.183984)">23</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(695.988415 84.235046)">Jonavos</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(702.175915 97.160046)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(709.201306 110.085046)">23</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(804.804408 337.441736)">Joniškio</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(811.160346 350.366736)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(819.412064 363.291736)">21</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(805.991205 245.337401)">Rietavo</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(815.449486 258.262401)">sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(818.284564 271.187401)">20</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(800.205033 155.479514)">Elektrėnų</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(815.449486 168.404514)">sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(818.284564 181.329514)">20</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(800.046908 67.868073)">Kalvarijos</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(815.449486 80.793073)">sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(819.254799 93.718073)">19</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(901.821715 329.559693)">Akmenės</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(911.974371 342.484693)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(919.942496 355.409693)">18</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(991.716582 329.559693)">Skuodo</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(997.352363 342.484693)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1005.320488 355.409693)">18</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1077.631947 329.559693)">Prienų</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1080.358744 342.484693)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1088.585541 355.409693)">17</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(919.986222 231.253447)">Trakų</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(920.610988 244.178447)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(928.837784 257.103447)">17</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(912.675519 144.755822)">Raseinių</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(920.610988 157.680822)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(928.837784 170.605822)">17</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(918.120519 63.346294)">Kauno</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(920.610988 76.271294)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(928.617784 89.196294)">15</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1009.225245 227.096974)">Šilutės</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1013.253136 240.021974)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1021.259933 252.946974)">15</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1085.125556 224.553224)">Drusk.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1091.912041 238.878146)">sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1095.874619 255.575802)">12</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1005.308435 137.528833)">Pagėg.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1013.410623 152.846333)">sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1018.412185 169.48899)">11</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1083.174137 137.556333)">Marij.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1087.780387 152.846333)">sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1092.78195 169.48899)">11</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1010.322029 61.270933)">Pakr.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1009.121482 75.593277)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1018.412185 92.235933)">11</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1082.918044 70.975285)">Klaip.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1083.491247 86.127785)">r. sav.</text>
+    <text style="font-size: 11px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1093.698044 102.765285)">8</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 9px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1073.972223 43.371569)">Biršt.</text>
+    <text style="font-size: 9px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1073.363317 52.405319)">sav. 2</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 9px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1112.400934 42.764069)">Alyt.</text>
+    <text style="font-size: 9px; font-family: 'Public Sans', 'DejaVu Sans'" transform="translate(1114.248746 52.405319)">m. 1</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 14px; font-family: 'Slabo 13px', 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #4b574b" x="7.2" y="20.123077" transform="rotate(-0 7.2 20.123077)">Sumedžiotų vilkų skaičius pagal savivaldybę</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0c40c8685a">
+   <rect x="7.2" y="34.123077" width="1127.244176" height="789.070923"/>
+  </clipPath>
+ </defs>
+</svg>

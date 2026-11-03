@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="516.676923pt" height="543.6pt" viewBox="0 0 516.676923 543.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T12:00:31.901596</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 543.6 
+L 516.676923 543.6 
+L 516.676923 0 
+L 0 0 
+z
+" style="fill: #f7f5e7"/>
+  </g>
+  <g id="axes_1">
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_2">
+    <path d="M 58.198512 267.67922 
+C 56.436985 287.730726 57.698781 307.933583 61.941572 327.610081 
+C 66.184363 347.286579 73.360172 366.214213 83.228284 383.75805 
+C 93.096395 401.301888 105.54522 417.26354 120.157158 431.107568 
+C 134.769095 444.951597 151.378912 456.521452 169.429428 465.429019 
+C 187.479943 474.336586 206.767039 480.481136 226.643724 483.65655 
+C 246.520409 486.831965 266.761914 487.002334 286.689233 484.161943 
+C 306.616552 481.321552 326.004343 475.502521 344.202237 466.900051 
+C 362.400132 458.297581 379.202344 447.008949 394.045241 433.412837 
+C 408.888138 419.816724 421.603872 404.066878 431.765892 386.691631 
+C 441.927911 369.316383 449.421302 350.512218 453.994696 330.909924 
+C 458.56809 311.30763 460.169771 291.128874 458.746009 271.050559 
+C 457.322248 250.972243 452.889145 231.221416 445.595409 212.460625 
+C 438.301673 193.699834 428.229783 176.14123 415.717605 160.373819 
+C 403.205426 144.606408 388.394448 130.808492 371.781508 119.442926 
+C 355.168569 108.077359 336.94153 99.272666 317.711823 93.324202 
+C 298.482116 87.375738 278.467194 84.350769 258.338462 84.350769 
+L 258.338462 285.261538 
+z
+" style="fill: #a65d23"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 256.855962 84.356239 
+C 206.886811 84.724966 158.809404 103.723234 122.086006 137.611935 
+C 85.362607 171.500636 62.571585 217.900427 58.198512 267.67922 
+L 258.338462 285.261538 
+z
+" style="fill: #4b574b"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 258.338462 84.350769 
+C 258.091376 84.350769 257.844291 84.351225 257.597207 84.352137 
+C 257.350123 84.353048 257.103041 84.354416 256.855962 84.356239 
+L 258.338462 285.261538 
+z
+" style="fill: #e0af70"/>
+   </g>
+   <g id="pie-label-inside">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(286.442217 364.402317)">Vyresnis nei 1 metų</text>
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(317.060029 378.502317)">amžiaus</text>
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(301.596904 392.602317)">1 301 (76,4 %)</text>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="286.442217" y="364.402317" transform="rotate(-0 286.442217 364.402317)">Vyresnis nei 1 metų</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="317.060029" y="378.502317" transform="rotate(-0 317.060029 378.502317)">amžiaus</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="301.596904" y="392.602317" transform="rotate(-0 301.596904 392.602317)">1 301 </text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="332.022529" y="392.602317" transform="rotate(-0 332.022529 392.602317)">(76,4 %)</text>
+   </g>
+   <g id="pie-label-inside">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(125.339488 186.921776)">Jauniklis iki 1 metų</text>
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(153.884488 201.021776)">amžiaus</text>
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(140.854175 215.121776)">400 (23,5 %)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="125.339488" y="186.921776" transform="rotate(-0 125.339488 186.921776)">Jauniklis iki 1 metų</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="153.884488" y="201.021776" transform="rotate(-0 153.884488 201.021776)">amžiaus</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="140.854175" y="215.121776" transform="rotate(-0 140.854175 215.121776)">400 </text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="165.92105" y="215.121776" transform="rotate(-0 165.92105 215.121776)">(23,5 %)</text>
+   </g>
+   <g id="pie-label-outside">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #4b574b; opacity: 0" transform="translate(202.377456 61.561196)">Nežinoma</text>
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #4b574b; opacity: 0" transform="translate(211.225581 75.661196)">2 (0,1 %)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #4b574b" x="202.377456" y="61.561196" transform="rotate(-0 202.377456 61.561196)">Nežinoma</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #4b574b" x="211.225581" y="75.661196" transform="rotate(-0 211.225581 75.661196)">2 </text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #697369" x="221.292456" y="75.661196" transform="rotate(-0 221.292456 75.661196)">(0,1 %)</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 257.548983 71.281499 
+Q 257.569404 76.816416 257.589825 82.351333 
+" style="fill: none; stroke: #4b574b; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 14px; font-family: 'Slabo 13px', 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #4b574b" x="7.2" y="20.123077" transform="rotate(-0 7.2 20.123077)">Sumedžiotų vilkų pasiskirstymas pagal amžių</text>
+   </g>
+  </g>
+ </g>
+</svg>

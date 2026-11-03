@@ -1,0 +1,1 @@
+"""Wolf hunting analysis helpers."""

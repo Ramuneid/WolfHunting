@@ -1,0 +1,15 @@
+{
+  "provider": "Eurostat–GISCO",
+  "dataset": "LAU 2024",
+  "crs": "EPSG:3035",
+  "municipalities": 60,
+  "source_url": "https://gisco-services.ec.europa.eu/distribution/v2/lau/topojson/LAU_RG_01M_2024_3035.json",
+  "catalogue_url": "https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html",
+  "terms_url": "https://ec.europa.eu/eurostat/web/gisco/geodata/statistical-units",
+  "source_sha256": "8b6ecab530f6c8c1faa778854535c7f8f1698df64f381247dc07846f9412cee1",
+  "local_subset_sha256": "6311dccd7ed10a211a0db51f579ab169c53ea078334608ab29a19da8d49e585f",
+  "retrieved_on": "2026-10-20",
+  "processing": "Selected CNTR_CODE=LT; decoded shared TopoJSON arcs; retained all 60 municipal geometries; shortened display names.",
+  "attribution": "Administracinės ribos © EuroGeographics",
+  "use": "Non-commercial use under the source terms."
+}

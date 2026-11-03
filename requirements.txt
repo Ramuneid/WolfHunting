@@ -1,0 +1,8 @@
+pandas
+matplotlib
+jupyterlab
+nbformat
+nbclient
+ipykernel
+shapely
+pyproj

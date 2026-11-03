@@ -1,0 +1,70 @@
+{
+  "name": "Honey Sage",
+  "typography": {
+    "body": [
+      "Public Sans",
+      "DejaVu Sans"
+    ],
+    "title": [
+      "Slabo 13px",
+      "Public Sans",
+      "DejaVu Sans"
+    ],
+    "mono": [
+      "DejaVu Sans Mono",
+      "Public Sans",
+      "DejaVu Sans"
+    ]
+  },
+  "dataColors": [
+    "#A65D23",
+    "#4B574B",
+    "#E48C35",
+    "#AAA66D",
+    "#F5B74E",
+    "#E0AF70"
+  ],
+  "colorNames": [
+    "Deep honey",
+    "Sage",
+    "Orange",
+    "Olive",
+    "Gold",
+    "Apricot"
+  ],
+  "background": "#F7F5E7",
+  "foreground": "#4B574B",
+  "tableAccent": "#E48C35",
+  "semanticColors": {
+    "positive": "#4B574B",
+    "negative": "#A65D23",
+    "neutral": "#F7F5E7",
+    "missing": "#CED4D0",
+    "muted": "#626D61"
+  },
+  "sequentialColors": [
+    "#EBCEAE",
+    "#F5B74E",
+    "#E48C35",
+    "#BD6929",
+    "#8C491F",
+    "#593019"
+  ],
+  "warmSequentialColors": [
+    "#EBCEAE",
+    "#F5B74E",
+    "#E48C35",
+    "#BD6929",
+    "#8C491F",
+    "#593019"
+  ],
+  "scaleDirection": "Higher values are darker",
+  "referenceColors": [
+    "#E48C35",
+    "#F5B74E",
+    "#EBCEAE",
+    "#E0AF70",
+    "#AAA66D",
+    "#5D695D"
+  ]
+}

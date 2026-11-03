@@ -1,0 +1,35 @@
+{
+  "included_rows": 1703,
+  "excluded_rows": 2,
+  "municipalities": 60,
+  "municipalities_with_records": 52,
+  "municipalities_without_records": [
+    "Vilniaus m. sav.",
+    "Kauno m. sav.",
+    "Klaipėdos m. sav.",
+    "Neringos sav.",
+    "Palangos m. sav.",
+    "Panevėžio m. sav.",
+    "Šiaulių m. sav.",
+    "Visagino sav."
+  ],
+  "yearly_totals": {
+    "2018": 62,
+    "2019": 122,
+    "2020": 138,
+    "2021": 195,
+    "2022": 253,
+    "2023": 269,
+    "2024": 285,
+    "2025": 301,
+    "2026": 78
+  },
+  "latest_hunting_date": "2026-03-21",
+  "unmatched_municipalities": [],
+  "boundary_crs": "EPSG:3035",
+  "display_crs": "EPSG:3346",
+  "boundary_year": 2024,
+  "valid_hunting_points": 1703,
+  "distinct_hunting_locations": 1410,
+  "coordinate_crs_assumption": "EPSG:4326; longitude then latitude, inferred from source coordinate values"
+}

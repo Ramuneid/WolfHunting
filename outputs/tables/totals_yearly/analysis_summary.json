@@ -1,0 +1,53 @@
+{
+  "source_rows": 1705,
+  "included_rows": 1703,
+  "excluded_rows": 2,
+  "excluded_years": [
+    1979,
+    2003
+  ],
+  "latest_hunting_date": "2026-03-21",
+  "yearly_counts": {
+    "2018": 62,
+    "2019": 122,
+    "2020": 138,
+    "2021": 195,
+    "2022": 253,
+    "2023": 269,
+    "2024": 285,
+    "2025": 301,
+    "2026": 78
+  },
+  "category_totals": {
+    "lytis": {
+      "Patelė": 706,
+      "Patinas": 908,
+      "Nežinoma": 89
+    },
+    "amzius": {
+      "Vyresnis nei 1 metų amžiaus": 1301,
+      "Jauniklis iki 1 metų amžiaus": 400,
+      "Nežinoma": 2
+    },
+    "niezai": {
+      "Taip": 262,
+      "Ne": 1438,
+      "Nežinoma": 3
+    },
+    "defektai": {
+      "Taip": 90,
+      "Ne": 0,
+      "Nežinoma": 1613
+    },
+    "gauja": {
+      "Taip": 778,
+      "Ne": 836,
+      "Nežinoma": 89
+    },
+    "sveikata": {
+      "Sveikas": 1393,
+      "Nesveikas": 307,
+      "Nežinoma": 3
+    }
+  }
+}

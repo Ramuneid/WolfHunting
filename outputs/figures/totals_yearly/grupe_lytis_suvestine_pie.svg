@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="482.116923pt" height="509.04pt" viewBox="0 0 482.116923 509.04" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T12:00:31.389258</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 509.04 
+L 482.116923 509.04 
+L 482.116923 -0 
+L 0 -0 
+z
+" style="fill: #f7f5e7"/>
+  </g>
+  <g id="axes_1">
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_2">
+    <path d="M 336.735642 428.752607 
+C 371.938609 407.802814 399.304843 375.85964 414.605489 337.859207 
+C 429.906135 299.858774 432.310266 257.864759 421.446375 218.366422 
+C 410.582485 178.868086 387.040555 144.010452 354.458478 119.180008 
+C 321.876401 94.349564 282.023602 80.894769 241.058462 80.894769 
+L 241.058462 267.981538 
+z
+" style="fill: #a65d23"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 180.72398 90.890574 
+C 155.914724 99.34303 133.156314 112.91533 113.927665 130.725501 
+C 94.699015 148.535673 79.425861 170.189387 69.100703 194.279514 
+C 58.775544 218.369642 53.626986 244.362812 53.989598 270.569905 
+C 54.352211 296.776997 60.217966 322.617768 71.205688 346.413002 
+C 82.193409 370.208235 98.059822 391.431089 117.773874 408.702432 
+C 137.487927 425.973775 160.613137 438.911209 185.646754 446.674017 
+C 210.680371 454.436825 237.068133 456.853134 263.095279 453.765924 
+C 289.122424 450.678714 314.212694 442.156338 336.735642 428.752607 
+L 241.058462 267.981538 
+z
+" style="fill: #4b574b"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 241.058462 80.894769 
+C 230.813962 80.894769 220.586749 81.736222 210.480014 83.410637 
+C 200.373279 85.085052 190.421128 87.586778 180.72398 90.890574 
+L 241.058462 267.981538 
+z
+" style="fill: #e0af70"/>
+   </g>
+   <g id="pie-label-inside">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(331.620272 235.512469)">Patelė</text>
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(314.923397 249.612469)">706 (41,5 %)</text>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="331.620272" y="235.512469" transform="rotate(-0 331.620272 235.512469)">Patelė</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="314.923397" y="249.612469" transform="rotate(-0 314.923397 249.612469)">706 </text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="339.545897" y="249.612469" transform="rotate(-0 339.545897 249.612469)">(41,5 %)</text>
+   </g>
+   <g id="pie-label-inside">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(118.561172 312.340416)">Patinas</text>
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #ffffff; opacity: 0" transform="translate(103.05961 326.440416)">908 (53,3 %)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="118.561172" y="312.340416" transform="rotate(-0 118.561172 312.340416)">Patinas</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="103.05961" y="326.440416" transform="rotate(-0 103.05961 326.440416)">908 </text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="128.426485" y="326.440416" transform="rotate(-0 128.426485 326.440416)">(53,3 %)</text>
+   </g>
+   <g id="pie-label-outside">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #4b574b; opacity: 0" transform="translate(152.276544 62.253547)">Nežinoma</text>
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; fill: #4b574b; opacity: 0" transform="translate(150.242169 76.353547)">89 (5,2 %)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #4b574b" x="152.276544" y="62.253547" transform="rotate(-0 152.276544 62.253547)">Nežinoma</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #4b574b" x="150.242169" y="76.353547" transform="rotate(-0 150.242169 76.353547)">89 </text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12px; font-family: 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #697369" x="168.343419" y="76.353547" transform="rotate(-0 168.343419 76.353547)">(5,2 %)</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 208.513057 71.538122 
+Q 209.333023 76.487419 210.152988 81.436715 
+" style="fill: none; stroke: #4b574b; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 14px; font-family: 'Slabo 13px', 'Public Sans', 'DejaVu Sans'; text-anchor: start; fill: #4b574b" x="7.2" y="20.123077" transform="rotate(-0 7.2 20.123077)">Sumedžiotų vilkų pasiskirstymas pagal lytį</text>
+   </g>
+  </g>
+ </g>
+</svg>

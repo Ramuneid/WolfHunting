@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# VS Code settings
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
